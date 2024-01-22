@@ -10,7 +10,7 @@ It is a tool prepared for IIS Tilde Enumeration vulnerability.
 - Finally, it recursively calls itself with the new prefix.
 
 ### >_ Preview
-![finduk_preview](https://github.com/Privia-Security/finduk/assets/81651239/bf2193c6-749d-4122-865c-42a66cb5d697)
+![finduk_preview]![finduk_preview](https://github.com/aysenurdemiral/finduk/assets/81651239/a4d67260-6c58-475b-bc78-e63bbc9fcbdf)
 
 ### >_ Installation
 ```
