@@ -19,6 +19,10 @@ go install github.com/aysenurdemiral/finduk@latest
 
 ### >_ How To Run
 ```
+for compile:
+go build .
+```
+```
 ./finduk http://<IP-Address>/ txt,png
 ```
 
