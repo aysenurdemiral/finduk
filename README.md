@@ -25,6 +25,10 @@ go build .
 ```
 ./finduk http://<IP-Address>/ txt,png
 ```
+no compile run:
+```
+go run finduk.go http://<IP-Address>/ txt,png
+```
 
 ### >_ Help
 ```
