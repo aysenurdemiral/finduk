@@ -14,13 +14,13 @@ It is a tool prepared for IIS Tilde Enumeration vulnerability.
 
 ### >_ Installation
 ```
-go install github.com/aysenurdemiral/finduk@latest
+git clone https://github.com/aysenurdemiral/finduk.git
 ```
 
 ### >_ How To Run
 for compile:
 ```
-go build .
+go build finduk.go
 ```
 ```
 ./finduk http://<IP-Address>/ txt,png
