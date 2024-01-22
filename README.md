@@ -14,7 +14,7 @@ It is a tool prepared for IIS Tilde Enumeration vulnerability.
 
 ### >_ Installation
 ```
-go install github.com/Privia-Security/finduk@latest
+go install github.com/aysenurdemiral/finduk@latest
 ```
 
 ### >_ How To Run
