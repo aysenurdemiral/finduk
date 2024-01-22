@@ -18,8 +18,8 @@ go install github.com/aysenurdemiral/finduk@latest
 ```
 
 ### >_ How To Run
-```
 for compile:
+```
 go build .
 ```
 ```
